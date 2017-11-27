@@ -1,0 +1,6 @@
+1.) Montar el servicio Web (SW). (Sigue el vídeo https://www.youtube.com/watch?v=FxmyBXWTJLE)
+2.) En la App de Android cambia la IP para que apunte a tu servidor.
+3.) Estos enlaces relacionados son muy interesantes:
+     - https://www.androidlearning.com/multipart-request-using-android-volley/
+     - https://developer.android.com/reference/android/widget/ProgressBar.html
+     - https://developer.android.com/guide/topics/permissions/index.html
